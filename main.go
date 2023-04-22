@@ -10,7 +10,7 @@ var player = struct {
 	Name string `json:"name"`
 	City string `json:"city"`
 }{
-	Name: "Paul Scholes",
+	Name: "David Beckham",
 	City: "Manchester",
 }
 
